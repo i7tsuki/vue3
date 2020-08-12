@@ -30,7 +30,6 @@ export default {
     return {
       newTaskName: '',
       openStatus: 'all',
-      isVisible: true,
     }
   }, 
   methods: {
